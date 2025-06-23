@@ -6,9 +6,8 @@ I specialize in React, Vanilla JavaScript, HTML, and CSS and am always happy to 
 
 Thanks for taking the time to learn a little bit about me. I'm excited to collaborate with other developers and create some amazing projects together! </h3>
 
-- 🌱 I’m currently learning **Nextjs, nodejs, express and typescript**
 
-- 💬 Ask me about **React, Vanila Js, Html and Css**
+- 💬 Ask me about **Nextjs, nodejs, express, typescriptReact, Vanila Js, Html and Css**
 
 - 📫 How to reach me **entekumejeffrey@gmail.com**
 
