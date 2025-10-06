@@ -1,10 +1,42 @@
-<h1 align="center">Hi 👋, I'm Entekume Jeffrey</h1>
-<h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
-<h3 align="left">Hi there! My name is Entekume Jeffrey, and I'm a frontend developer. I'm very passionate about creating amazing user interfaces that people can enjoy and interact with. As a new developer, I'm constantly learning and expanding my skill set. Currently, I'm diving into Nextjs, Nodejs, Express, and TypeScript to take my skills to the next level.
+<h1 align="center">👋 Hey, I'm Entekume Jeffrey</h1>
+<h3 align="center">Building modern, performant, and beautiful web experiences</h3>
 
-I specialize in React, Vanilla JavaScript, HTML, and CSS and am always happy to share my knowledge with others. If you have any questions about these languages or tools, feel free to ask me. You can reach me at entekumejeffrey@gmail.com or connect with me on Twitter, LinkedIn, or Facebook.
+<p align="center">
+  <b>Frontend Developer | Next.js | TypeScript | Firebase | AWS</b>
+</p>
 
-Thanks for taking the time to learn a little bit about me. I'm excited to collaborate with other developers and create some amazing projects together! </h3>
+---
+
+### 👨🏽‍💻 About Me  
+I'm a **frontend-heavy fullstack developer** focused on crafting scalable and visually stunning web applications.  
+I love working at the intersection of **design, performance, and interactivity** — building products that feel fast and intuitive.
+
+Currently:
+- ⚡ Working with **Next.js**, **TypeScript**, **Firebase**, and **Tailwind CSS**
+- 🧩 Exploring **web-based AI integrations** and **modular architectures**
+- 🚀 Building sleek, animated interfaces using **Framer Motion**
+- 💡 Always optimizing UX with real-world performance in mind
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion  
+**Backend:** Node.js, Express, Firebase, MongoDB  
+**DevOps / Tools:** Git, Vercel, AWS, Postman, Figma  
+
+---
+
+### 🌍 Connect With Me  
+📫 **Email:** entekumejeffrey@gmail.com  
+🐦 **Twitter:** [@entekume_jeffrey](#)  
+💼 **LinkedIn:** [Entekume Jeffrey](#)  
+🌐 **Portfolio:** [YourPortfolioLinkHere](#)  
+
+---
+
+> “Code is design in motion — I build for usability, speed, and delight.”
+
+
 
 
 - 💬 Ask me about **Nextjs, nodejs, express, typescriptReact, Vanila Js, Html and Css**
