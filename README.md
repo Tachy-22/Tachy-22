@@ -30,7 +30,7 @@ Currently:
 📫 **Email:** entekumejeffrey@gmail.com  
 🐦 **Twitter:** [@entekume_jeffrey](#)  
 💼 **LinkedIn:** [Entekume Jeffrey](#)  
-🌐 **Portfolio:** [YourPortfolioLinkHere](#)  
+🌐 **Portfolio:** [https://entekumejeffrey.vercel.app](#)  
 
 ---
 
