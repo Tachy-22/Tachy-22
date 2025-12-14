@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I'm Entekume Jeffrey</h1>
-<h3 align="center">Building modern, performant, and beautiful web experiences</h3>
+<h3 align="center">Building modern, performant, and beautiful digital experiences</h3>
 
 <p align="center">
-  <b>Frontend Developer | Next.js | TypeScript | Firebase | AWS</b>
+  <b>Software Engineer | Next.js | TypeScript | Firebase | AWS</b>
 </p>
 
 ---
